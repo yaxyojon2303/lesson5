@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.contayner{
+    text-align: center;
+    max-width: 1240px;
+    margin: 0 auto;
+    
+
+}
+.cards{
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+
+
+}
+.card{
+    border: 1px solid;
+    width: 220px;
+    height: 100px;
+    text-align: center;
+    padding-top: 10px;
+   
+}
+.kv{
+    font-size: 20px;
+}
+.sizes{
+    color: red;
+}
+h1{
+   margin: 150px;
+    font-size: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   
+}

@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+body{
+    background-color: antiquewhite;
+}
+h1{
+    font-size: 30px;
+}
+.conteyner{
+    max-width: 100px;
+    margin: 20px auto;
+  
+   max-width: 1000px;
+    margin: 20px auto;
+    display: flex;
+}
+.card{
+    background-color: white;
+    border-radius: 10px;
+    border: 1px solid none;
+    width: 300px;
+    padding: 20px;
+    margin: 10px;
+
+}
+.card1{
+    display: flex;
+    justify-content: space-between;
+}
+.month{
+    padding-right: 40px;
+    
+
+    
+}
+b{
+    font-size: 20px
+}
